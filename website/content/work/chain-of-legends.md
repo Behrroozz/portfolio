@@ -9,7 +9,7 @@ coinmarketcap_link: "https://coinmarketcap.com/currencies/chain-of-legends/"
 color: "#EFBF04"
 index: 1
 
-thumb_image: "chain-of-legends/images/chain-of-legends_thumb.png"
+thumb_image: "chain-of-legends/images/chain-of-legends-thumb.png"
 cover_image: "images/chain-of-legends.png"
 ---
 
