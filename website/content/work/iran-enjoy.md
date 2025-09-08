@@ -5,7 +5,7 @@ slug: iran-enjoy
 job_type: "Business Developer"
 stack: "Branding • Digital Marketing • Social Media Marketing"
 website_link: "https://iranenjoy.com/"
-instagram_link: "https://www.instagram.com/"
+instagram_link: "https://www.instagram.com/iranenjoy/"
 color: "#00ba6d"
 index: 2
 
