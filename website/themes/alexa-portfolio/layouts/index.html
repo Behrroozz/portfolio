@@ -27,7 +27,7 @@
         </div>
         <div class="home__img">
           <div class="home">
-            <img src="{{ .Site.Params.home_image | default "/images/profile.png" }}" class="home__blob-img">
+            <img src="{{ (.Site.Params.home_image | default "/images/profile.png") | relURL }}" class="home__blob-img">
           </div>
         </div>
         <div class="home__data">
@@ -35,7 +35,7 @@
           <h3 class="home__subtitle">{{ .Site.Params.home_subtitle }}</h3>
           <p class="home__description">{{ .Site.Params.home_description }}</p>
           <a
-            href="/contact"
+            href="{{ "/contact" | relURL }}"
             class="button button--flex"
           >
             Contact Me  <i class="fab fa-telegram-plane button__icon"></i>
