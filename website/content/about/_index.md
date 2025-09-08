@@ -5,14 +5,15 @@ subtitle: "My Introduction"
 
 <div class="container grid">
   <span class="section__title h2">
-    Hello! My name is <b class='main-color'>Bona Tua</b> from <b class='main-color'>Indonesia</b>.
+    Hello! My name is <b class='main-color'>Behrooz Shahri</b>.
   </span>
   <p>
-    Since the beginning of college I have been a freelance web developer, sometimes I also take mobile but the simple one due to the limitations of my device, my first mobile project used Ionic because it used to be light and supported for my old laptop.
+    Entrepreneur at heart with 12 years of professional experience, I’ve built my own businesses and startups, and also worked with diverse companies to grow their operations. 
   </p>
   <p>
-    After graduating from college with majoring in Mobile and Web Development,I decided to become a FullStack Mobile and Web Developer.
+    I’m passionate about marketing, business development, and delivering exceptional customer experiences. A creative thinker and lifelong learner, I enjoy reading books and articles that expand my perspective.
   </p>
-  <p>Fast-forward to today, and I’ve had the privilege of working at 
-  	<a class='main-color' href="https://www.mikroskil.ac.id/" rel="noopener noreferrer" target="_blank">college</a>, <a href="https://www.transporindo.com/" class='main-color' rel="noopener noreferrer" target="_blank">a trasportation company</a>, and <a class='main-color' href="http://sisda.sumutprov.go.id/" rel="noopener noreferrer" target="_blank">a government office</a>. My main focus these days is lead small developer team for building mobile and website app for Music Distribution Company at <a href="http://premierpro.co.id/" rel="noopener noreferrer" target="_blank" class='main-color'>Premi Musik Era</a>.</p>
+  <p>
+  Five years ago, I closed all my personal social media accounts to focus on meaningful work and professional growth. Above all, I’m a family man who values both innovation and connection.
+  </p>
 </div>
