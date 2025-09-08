@@ -2,7 +2,7 @@
 draft: false
 title: "Hungarian Games L.L.C"
 slug: hungarian-games
-job_type: "ustomer Experience & Marketing Coordinator"
+job_type: "Customer Experience & Marketing Coordinator"
 stack: "Google Ads • Customer Service • Events"
 website_link: "https://hungariangames.com/"
 color: "#161c4e"
