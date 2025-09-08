@@ -4,6 +4,7 @@ title = "Behrooz Shahri"
 theme = "alexa-portfolio"
 googleAnalytics = "UA-167869327-1"
 enableRobotsTXT = true
+relURL = "https://behrroozz.github.io/portfolio/"
 
 [params]
 	# favicon = "/images/fav.png"
