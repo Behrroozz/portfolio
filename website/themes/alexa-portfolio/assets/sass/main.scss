@@ -481,6 +481,16 @@ a{
     .home__content{
         grid-template-columns: .25fr 3fr;
     }
+    /* Make home image responsive by default */
+    .home__img{
+        width: 100%;
+    }
+    .home__blob-img{
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
     .home__blob{
         width: 180px;
     }
@@ -503,7 +513,9 @@ a{
         justify-self: center;
     }
     .home__blob-img{
-        width: 300px;
+        width: 100%;
+        max-width: 300px;
+        height: auto;
     }
     .contact__container{
         grid-template-columns: repeat(2,1fr);
@@ -566,7 +578,9 @@ a{
     }
     
     .home__blob-img{
-        width: 415px;
+        width: 100%;
+        max-width: 415px;
+        height: auto;
     }
     .qualification__section{
         grid-template-columns: .5fr;

@@ -1,21 +1,23 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Alexa Portfolio"
+title = "Portfolio"
 theme = "alexa-portfolio"
 googleAnalytics = "UA-167869327-1"
 enableRobotsTXT = true
 
 [params]
 	# favicon = "/images/fav.png"
-	home_title = "Hi, I'am Bona Tua"
-	home_subtitle = "FullStack Web Developer"
+	home_title = "Hi, I'am Behrooz"
+	home_subtitle = "Project Manager"
 	home_description = "and also has little experience in Mobile development and Design."
+	# Path to the homepage profile image served from /static
+	home_image = "/images/profile2.png"
 	github = "https://github.com/bonaxcrimo"
-	linkedin = "https://www.linkedin.com/in/bona-tua-1b8685130/"
+	linkedin = "https://www.linkedin.com/in/behrooz-shahri/"
 	dribbble = "https://dribbble.com/RainMustbeDark"
-	phone = "0812"
-	email = "bonaxcrimo@gmail.com"
-	location = "Jakarta, Indonesia"
+	phone = "+"
+	email = "Behrooz@gmail.com"
+	location = "Dubai, United Arab Emirates"
 
 [markup]
   [markup.goldmark]
