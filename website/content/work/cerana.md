@@ -9,7 +9,7 @@ instagram_link: "https://www.instagram.com/cerana.ir/"
 color: "#f8d900"
 index: 1
 
-thumb_image: "cerana/images/cerana_thumb.JPG"
+thumb_image: "cerana/images/cerana-thumb.JPG"
 cover_image: "images/cerana.jpg"
 ---
 
