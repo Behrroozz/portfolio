@@ -5,7 +5,7 @@ slug: chain-of-legends
 job_type: "Project Manager"
 stack: "Agile Methodologies • Kanban"
 website_link: "https://chainoflegends.com/"
-extra_link: "https://coinmarketcap.com/currencies/chain-of-legends/"
+coinmarketcap_link: "https://coinmarketcap.com/currencies/chain-of-legends/"
 color: "#EFBF04"
 index: 1
 

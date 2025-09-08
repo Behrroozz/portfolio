@@ -32,28 +32,28 @@
       	<div class="container work__container">
       		{{ .Content }}
       		<ul class="c-tags justify-start mt-1">
-	      	  {{ if .Params.github_link }}
-		      <li class="c-tags__item ">
-		      	<a class="c-tags__label button py-1" href="{{ .Params.github_link }}" target="_blank">
-		          <i class="fab fa-github"></i> Github
-		        </a>
-		      </li>
-		      {{ end }}
-		      {{ if .Params.website_link }}
-		      <li class="c-tags__item">
-		      	<a class="c-tags__label button py-1" href="{{ .Params.website_link }}" rel="nofollow" target="_blank">
-		          <i class="fas fa-link"></i> Website 
-		        </a>
-		      </li>
-			  {{ end }}
-			  {{ if .Params.extra_link }}
-		      <li class="c-tags__item">
-		      	<a class="c-tags__label button py-1" href="{{ .Params.extra_link }}" rel="nofollow" target="_blank">
-		          <i class="fas fa-link"></i> Extra Link 
-		        </a>
-		      </li>
-		      {{ end }}
-			</ul>
+				{{ with .Params.website_link }}
+					<li class="c-tags__item">
+					<a class="c-tags__label button py-1" href="{{ . }}" target="_blank" rel="nofollow">
+						<i class="fas fa-link"></i> Website
+					</a>
+					</li>
+				{{ end }}
+				
+				{{ range $key, $value := .Params }}
+					{{ if and (strings.HasSuffix $key "_link") (ne $key "website_link") }}
+					<li class="c-tags__item">
+						<a class="c-tags__label button py-1" href="{{ $value }}" target="_blank" rel="nofollow">
+						{{- if eq $key "github_link" -}}
+							<i class="fab fa-github"></i> Github
+						{{- else -}}
+							<i class="fas fa-link"></i> {{ replace (title (replace $key "_link" "")) "_" " " }}
+						{{- end -}}
+						</a>
+					</li>
+					{{ end }}
+				{{ end }}
+				</ul>			  
       	</div>
       	
       	{{- partial "social.html" . -}}
