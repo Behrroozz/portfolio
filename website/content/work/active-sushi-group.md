@@ -10,7 +10,7 @@ color: "#000"
 index: 1
 
 thumb_image: "active-sushi-group/images/active-sushi-group-thumb.jpg"
-cover_image: "images/active-sushi-group.png"
+cover_image: "images/active-sushi-group.jpg"
 ---
 
 I joined this restaurant group of four branches in Cape Town to focus on boosting delivery sales and improving operational efficiency. My role involved restructuring the menu, introducing new staff training guidelines, and leading the transition from traditional practices to a modern, delivery-focused approach.
