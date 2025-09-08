@@ -1,10 +1,10 @@
-baseURL = "https://behrroozz.github.io/portfolio/"
+baseURL = "https://behroozshahri.com/"
 languageCode = "en-us"
 title = "Behrooz Shahri"
 theme = "alexa-portfolio"
 googleAnalytics = "UA-167869327-1"
 enableRobotsTXT = true
-relURL = "https://behrroozz.github.io/portfolio/"
+relURL = "https://behroozshahri.com/"
 
 [params]
 	# favicon = "/images/fav.png"
