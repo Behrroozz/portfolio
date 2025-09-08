@@ -5,7 +5,7 @@ slug: greenweb
 job_type: "Digital Marketing Executive"
 stack: "Digital Marketing • Scrum"
 website_link: "https://greenweb.ir/"
-instagram_link: "https://www.instagram.com/greenwebme/"
+instagram_link: "https://www.instagram.com/greenwebco/"
 color: "#97cd70"
 index: 1
 
