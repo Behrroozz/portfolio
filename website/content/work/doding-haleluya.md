@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Doding Haleluya"
 slug: doding-haleluya
 job_type: "Designed and Develop"

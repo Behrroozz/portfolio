@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Medan In Code"
 slug: medanincode
 job_type: "Designed and Develop"

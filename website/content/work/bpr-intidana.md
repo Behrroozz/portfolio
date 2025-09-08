@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "BPR Intidana"
 slug: bpr-intidana
 job_type: "Designed and Develop"
