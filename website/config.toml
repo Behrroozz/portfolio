@@ -1,13 +1,13 @@
 baseURL = "https://behrroozz.github.io/portfolio/"
 languageCode = "en-us"
-title = "Portfolio"
+title = "Behrooz Shahri"
 theme = "alexa-portfolio"
 googleAnalytics = "UA-167869327-1"
 enableRobotsTXT = true
 
 [params]
 	# favicon = "/images/fav.png"
-	home_title = "Hi, I'am Behrooz"
+	home_title = "Hi, I'am Behrooz Shahri"
 	home_subtitle = "Project Manager"
 	home_description = "and also has little experience in Mobile development and Design."
 	# Path to the homepage profile image served from /static
