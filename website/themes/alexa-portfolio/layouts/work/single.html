@@ -41,8 +41,15 @@
 		      {{ end }}
 		      {{ if .Params.website_link }}
 		      <li class="c-tags__item">
-		      	<a class="c-tags__label button py-1" href="{{ .Params.website_link }}" target="_blank">
+		      	<a class="c-tags__label button py-1" href="{{ .Params.website_link }}" rel="nofollow" target="_blank">
 		          <i class="fas fa-link"></i> Website 
+		        </a>
+		      </li>
+			  {{ end }}
+			  {{ if .Params.extra_link }}
+		      <li class="c-tags__item">
+		      	<a class="c-tags__label button py-1" href="{{ .Params.extra_link }}" rel="nofollow" target="_blank">
+		          <i class="fas fa-link"></i> Extra Link 
 		        </a>
 		      </li>
 		      {{ end }}
