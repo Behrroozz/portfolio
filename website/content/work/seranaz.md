@@ -9,7 +9,7 @@ stack: "Instagram"
 color: "#ef4186"
 index: 2
 
-thumb_image: "seranaz/images/seranaz.jpg"
+thumb_image: "seranaz/images/seranaz_thumb.jpg"
 cover_image: "images/seranaz.jpg"
 ---
 

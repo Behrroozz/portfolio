@@ -316,14 +316,14 @@ body {
       transform: translateY(1.2rem); }
 
 .c-case__image {
-  background-position: right -4rem bottom;
+  background-position: center center;
   background-repeat: no-repeat;
-  background-size: auto 105%;
-  bottom: 0;
-  left: 0;
+  background-size: contain;
   position: absolute;
+  top: 0;
   right: 0;
-  top: 0; }
+  bottom: 0;
+  left: 0; }
 
 .c-case__info {
   background: var(--blue-500);

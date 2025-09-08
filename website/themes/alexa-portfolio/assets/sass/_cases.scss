@@ -35,14 +35,14 @@
 }
 
 .c-case__image {
-  background-position: right -4rem bottom;
+  background-position: center center;
   background-repeat: no-repeat;
-  background-size: auto 105%;
+  background-size: contain;
+  position: absolute;
+  top: 0;
+  right: 0;
   bottom: 0;
   left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
 }
 
 .c-case__info {

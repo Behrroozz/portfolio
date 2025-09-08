@@ -6,10 +6,10 @@ job_type: "Project Manager"
 stack: "Agile Methodologies • Kanban"
 website_link: "https://chainoflegends.com/"
 extra_link: "https://coinmarketcap.com/currencies/chain-of-legends/"
-color: "#ef4186"
+color: "#EFBF04"
 index: 1
 
-thumb_image: "chain-of-legends/images/chain-of-legends.png"
+thumb_image: "chain-of-legends/images/chain-of-legends_thumb.png"
 cover_image: "images/chain-of-legends.png"
 ---
 
