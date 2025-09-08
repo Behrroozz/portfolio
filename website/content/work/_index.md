@@ -1,4 +1,4 @@
 ---
-title: "Work"
-description : "To get an idea of my work, here are some public projects I worked on. Since I can't show everything here, I'm happy to discuss more of my work in person."
+title: "Portfolio"
+description: "Explore a selection of my portfolio projects. While not everything can be shared here, I'm happy to walk you through more of my work in person."
 ---
