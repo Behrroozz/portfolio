@@ -11,7 +11,7 @@ enableRobotsTXT = true
 	home_subtitle = "Project Manager"
 	home_description = "and also has little experience in Mobile development and Design."
 	# Path to the homepage profile image served from /static
-	home_image = "/images/profile2.png"
+	home_image = "/images/profile.png"
 	github = "https://github.com/bonaxcrimo"
 	linkedin = "https://www.linkedin.com/in/behrooz-shahri/"
 	dribbble = "https://dribbble.com/RainMustbeDark"
