@@ -10,14 +10,14 @@ enableRobotsTXT = true
 	home_title = "Hi, I'am Behrooz Shahri"
 	home_subtitle = "Project Manager"
 	home_description = "and also has little experience in Mobile development and Design."
-	# Path to the homepage profile image served from /static
-	home_image = "/images/profile.png"
+	# Path to the homepage profile image served from /static (no leading slash for rel/absURL)
+	home_image = "images/profile.png"
 	github = "https://github.com/bonaxcrimo"
 	linkedin = "https://www.linkedin.com/in/behrooz-shahri/"
 	dribbble = "https://dribbble.com/RainMustbeDark"
-	phone = "+"
-	email = "Behrooz@gmail.com"
-	location = "Dubai, United Arab Emirates"
+	phone = "+971557886743"
+	email = "behroozshahri@gmail.com"
+	location = "Dubai, UAE"
 
 [markup]
   [markup.goldmark]
