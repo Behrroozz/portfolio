@@ -7,6 +7,7 @@ enableRobotsTXT = true
 relURL = "https://behroozshahri.com/"
 
 [params]
+	relURL = "https://behroozshahri.com/"
 	# favicon = "/images/fav.png"
 	home_title = "I’m Behrooz Shahri"
 	home_subtitle = "Turning Passion Into Action"
