@@ -93,3 +93,9 @@
     margin: 0 1.2rem 1.6rem;
   }
 }
+
+@media (max-width: 768px) {
+  .c-social__secondary {
+    margin-bottom: 50px;
+  }
+}
