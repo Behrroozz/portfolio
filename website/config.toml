@@ -7,7 +7,6 @@ enableRobotsTXT = true
 relURL = "https://behroozshahri.com/"
 
 [params]
-	relURL = "https://behroozshahri.com/"
 	# favicon = "/images/fav.png"
 	home_title = "I’m Behrooz Shahri"
 	home_subtitle = "Turning Passion Into Action"
@@ -19,6 +18,7 @@ relURL = "https://behroozshahri.com/"
 	phone = "+971557886743"
 	email = "behroozshahri@gmail.com"
 	location = "Dubai, UAE"
+	site_name = "Portfolio"
 
 [markup]
   [markup.goldmark]
