@@ -20,15 +20,6 @@
 	<div class="c-content__center pb-1">
      	<h2 class="section__title">{{ .Title }}</h2>
     	<span class="section__subtitle work__subtitle h4 mb-2">{{ .Params.job_type }}</span>
-      	<ul class="c-tags">
-	      {{ range split .Params.stack "•" }}
-	      <li class="c-tags__item">
-	    	<span  class="c-tags__label">
-	        	{{ . }}
-	      	</span>
-	      </li>
-		  {{ end }} 
-		</ul>
       	<div class="container work__container">
       		{{ .Content }}
       		<ul class="c-tags justify-start mt-1">
