@@ -32,6 +32,17 @@
   font-weight: 600;
   line-height: 2.4rem;
   margin-bottom: 1rem;
+
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; // spacing between text and link
+  flex-wrap: nowrap; // desktop default
+}
+
+.c-social__secondary {
+  font: 500 1rem var(--font-stack, sans-serif);
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
 }
 
 .c-social__secondary {
@@ -96,6 +107,9 @@
 
 @media (max-width: 768px) {
   .c-social__primary {
+    flex-wrap: wrap;
+    text-align: center; // optional, looks better centered on mobile
+    justify-content: center;
     margin-bottom: 50px !important;
   }
 }
