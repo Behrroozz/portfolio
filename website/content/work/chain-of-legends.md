@@ -7,7 +7,7 @@ stack: "Agile Methodologies • Kanban"
 website_link: "https://chainoflegends.com/"
 coinmarketcap_link: "https://coinmarketcap.com/currencies/chain-of-legends/"
 color: "#EFBF04"
-index: 1
+index: 3
 
 thumb_image: "chain-of-legends/images/chain-of-legends-thumb.png"
 cover_image: "images/chain-of-legends.png"

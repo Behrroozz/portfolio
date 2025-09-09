@@ -7,7 +7,7 @@ stack: "Instagram"
 # website_link: "https://medanincode.com/"
 # github_link: ""
 color: "#ef4186"
-index: 2
+index: 4
 
 thumb_image: "seranaz/images/seranaz-thumb.jpg"
 cover_image: "images/seranaz.jpg"

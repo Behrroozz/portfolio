@@ -7,7 +7,7 @@ stack: "Branding • Digital Marketing • Social Media Marketing"
 website_link: "https://iranenjoy.com/"
 instagram_link: "https://www.instagram.com/iranenjoy/"
 color: "#00ba6d"
-index: 2
+index: 7
 
 thumb_image: "iran-enjoy/images/iran-enjoy.jpg"
 cover_image: "images/iran-enjoy.jpg"

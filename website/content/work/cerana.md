@@ -7,7 +7,7 @@ stack: "Branding • Marketing • SEO"
 linkedin_link: "https://www.linkedin.com/company/cerana/"
 instagram_link: "https://www.instagram.com/cerana.ir/"
 color: "#f8d900"
-index: 1
+index: 6
 
 thumb_image: "cerana/images/cerana-thumb.JPG"
 cover_image: "images/cerana.jpg"

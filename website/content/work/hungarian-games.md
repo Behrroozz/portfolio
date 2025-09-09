@@ -6,7 +6,7 @@ job_type: "Customer Experience & Marketing Coordinator"
 stack: "Google Ads • Customer Service • Events"
 website_link: "https://hungariangames.com/"
 color: "#161c4e"
-index: 1
+index: 2
 
 thumb_image: "hungarian-games/images/hungarian-games-thumb.jpeg"
 cover_image: "images/hungarian-games.jpeg"

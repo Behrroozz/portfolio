@@ -7,7 +7,7 @@ stack: "Digital Marketing • Scrum"
 website_link: "https://greenweb.ir/"
 instagram_link: "https://www.instagram.com/greenwebco/"
 color: "#97cd70"
-index: 1
+index: 8
 
 thumb_image: "greenweb/images/greenweb_thumb.jpg"
 cover_image: "images/greenweb.png"

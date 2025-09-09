@@ -7,7 +7,7 @@ stack: "Startup • Events"
 # linkedin_link: "https://www.linkedin.com/company/cerana/"
 facebook_link: "https://www.facebook.com/Gsbmashhad/"
 color: "#09b968"
-index: 1
+index: 9
 
 thumb_image: "techstars/images/techstars-thumb.JPG"
 cover_image: "images/techstars.JPG"

@@ -6,7 +6,7 @@ job_type: "Graphic Designer"
 stack: "Photoshop • InDesign"
 website_link: "https://dasturpress.com/"
 color: "#0088aa"
-index: 1
+index: 10
 
 thumb_image: "dasturpress/images/dasturpress-thumb.png"
 cover_image: "images/dasturpress.png"
