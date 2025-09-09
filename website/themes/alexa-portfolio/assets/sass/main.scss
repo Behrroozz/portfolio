@@ -284,6 +284,13 @@ a{
 }
 .home__description{
     margin-bottom: var(--mb-2);
+    white-space: normal !important;
+    overflow-wrap: anywhere;    
+    word-break: break-word;     
+    hyphens: auto;              
+    min-width: 0;               
+    flex: 1 1 auto;             
+    max-width: 65ch; 
 }
 .home__scroll{
     display: none;

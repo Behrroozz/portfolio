@@ -8,9 +8,9 @@ relURL = "https://behroozshahri.com/"
 
 [params]
 	# favicon = "/images/fav.png"
-	home_title = "Hi, I'am Behrooz Shahri"
-	home_subtitle = "Project Manager"
-	home_description = "and also has little experience in Mobile development and Design."
+	home_title = "I’m Behrooz Shahri"
+	home_subtitle = "Turning Passion Into Action"
+	home_description = "I’ve spent over 12 years building startups and helping businesses succeed. I love turning creative ideas into practical results, making work meaningful, and keeping things human and fun along the way."
 	# Path to the homepage profile image served from /static (no leading slash for rel/absURL)
 	home_image = "images/profile.png"
 	github = "https://github.com/bonaxcrimo"
