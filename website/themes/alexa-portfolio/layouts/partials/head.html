@@ -13,9 +13,9 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{.RelPermalink  | absURL }}">
 <meta property="og:image" content="{{.RelPermalink  | absURL }}{{ $.Site.Params.home_image }}">
-{{ template "_internal/google_analytics.html" . }}
+<!-- {{ template "_internal/google_analytics.html" . }} -->
 {{ $sass := resources.Get "sass/main.scss" }}
-{{ $style := $sass | resources.ToCSS }}
+{{ $style := $sass | css.Sass }}
 {{ $css := slice  $style | resources.Concat "css/bundle.css" }}
 <link rel="stylesheet" href="{{ "css/all.min.css" | relURL }}" media="all">
 <link rel="stylesheet" href="{{ "css/bootstrap-4-utilities.css" | relURL }}" media="all">

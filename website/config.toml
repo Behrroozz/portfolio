@@ -2,7 +2,6 @@ baseURL = "https://behroozshahri.com/"
 languageCode = "en-us"
 title = "Behrooz Shahri"
 theme = "alexa-portfolio"
-googleAnalytics = "UA-167869327-1"
 enableRobotsTXT = true
 relURL = "https://behroozshahri.com/"
 
