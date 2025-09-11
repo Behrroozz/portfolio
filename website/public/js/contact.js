@@ -8,5 +8,5 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
     const subject = encodeURIComponent("Let’s connect — from " + name);
     const body = encodeURIComponent(message);
 
-    window.location.href = `mailto:{{ .Site.Params.email }}?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:behroozshahri@gmail.com?subject=${subject}&body=${body}`;
 });
